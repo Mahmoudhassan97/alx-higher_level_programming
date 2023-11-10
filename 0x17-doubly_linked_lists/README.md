@@ -1,62 +1,61 @@
-# 0x17. C - Doubly linked lists
-
-## Description
-What you should learn from this project:
-
-* What is a doubly linked list
-* How to use doubly linked lists
-* Start to look for the right source of information without too much help
+# Holberton School Low-level Programming
 
 ---
+## Table of Contents :open_file_folder:
 
-### [0. Print list](./ 0-print_dlistint.c)
-* Write a function that prints all the elements of a dlistint_t list.
+### [0x00. C - Hello, World](./0x00-hello_world)
 
+### [0x01. C - Variables, if, else, while](./0x01-variables_if_else_while)
 
-### [1. List length](./1-dlistint_len.c)
-* Write a function that returns the number of elements in a linked dlistint_t list.
+### [0x02. C - Functions, nested loops](./0x02-functions_nested_loops)
 
+### [0x03. C - More functions, more nested loops](./0x03-more_functions_nested_loops)
 
-### [2. Add node](./2-add_dnodeint.c)
-* Write a function that adds a new node at the beginning of a dlistint_t list.
+### [0x04. C - Pointers, arrays and strings](./0x04-pointers_arrays_strings)
 
+### [0x05. C - More pointers, arrays and strings](./0x05-pointers_arrays_strings)
 
-### [3. Add node at the end](./3-add_dnodeint_end.c)
-* Write a function that adds a new node at the end of a dlistint_t list.
+### [0x06. C - Even more pointers, arrays and strings](./0x06-pointers_arrays_strings)
 
+### [0x07. C - Even more, more pointers, arrays and strings](./0x07-pointers_arrays_strings)
 
-### [4. Free list](./4-free_dlistint.c)
-* Write a function that free a dlistint_t list.
+### [0x08. C - Recursion](./0x08-recursion)
 
+### [0x09. C - Static libraries](./0x09-static_libraries)
 
-### [5. Get node at index](./5-get_dnodeint.c)
-* Write a function that returns the nth node of a dlistint_t linked list.
+### [0x0A C -  Argc, Argv](./0x0A-argc_argv)
 
+### [0x0B. C - Malloc, Free](./0x0B-malloc_free)
 
-### [6. Sum list](./6-sum_dlistint.c)
-* Write a function that returns the sum of all the data (n) of a dlistint_t linked list.
+### [0x0C. C - More malloc, free](./0x0C-more_malloc_free)
 
+### [0x0D. C - Preprocessor](./0x0D-preprocessor)
 
-### [7. Insert at index](./7-insert_dnodeint.c)
-* Write a function that inserts a new node at a given position.
+### [0x0E. C - Structures, typedef](./0x0E-structures_typedef)
 
+### [0x0F. C - Function pointers](./0x0F-function_pointers)
 
-### [8. Delete at index](./8-delete_dnodeint.c)
-* Write a function that deletes the node at index index of a dlistint_t linked list.
+### [0x10. C - Variadic functions](./0x10-variadic_functions)
 
+### [0x12. C - Singly linked lists](./0x12-singly_linked_lists)
 
-### [9. Crackme4](./100-password)
-* Find the password for crackme4.
+### [0x13. C - More singly linked lists](./0x13-more_singly_linked_lists)
 
+### [0x14. C - Bit manipulation](./0x14-bit_manipulation)
 
-### [10. Palindromes](./102-result)
-* A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
+### [0x15. C - File I/O](./0x15-file_io)
 
+### [0x17. C - Doubly linked lists](./0x17-doubly_linked_lists)
 
-### [11. crackme5](./103-keygen.c)
-* Write a keygen for crackme5.
+### [0x18. C - Dynamic libraries](./0x18-dynamic_libraries)
+
+### [0x19. C - Stacks, Queues - LIFO, FIFO](./0x19-stacks_queues_lifo_fifo)
+
+### [0x1C. C - Makefiles](./0x1C-makefiles)
+
+### [0x1E  C - Search Algorithms](./0x1E-search_algorithms)
 
 ---
 
 ## Author
-* **Geoffrey Zoref** - [Gzoref](https://github.com/Gzoref)
+ Geoffrey Zoref - [Geoffrey Zoref](https://github.com/gzoref)
